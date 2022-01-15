@@ -1,0 +1,33 @@
+body {
+  background-color: khaki;we}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: khaki;
+}
+.nep {
+  border-radius: 7px;
+  background-color: cyan;
+}
+.nep:hover {
+  background-color: darkgreen;
+  transition: 0.25s;
+}
+.busd {
+  border-radius: 7px;
+
+  background-color: darkgreen;
+}
+.busd:hover {
+  background-color: cyan;
+  transition: 0.25s;
+}
+.wallet {
+  border-radius: 17px;
+
+  background-color: khaki;
+}
+.wallet:hover {
+  background-color: pink;
+  transition: 0.25s;
+}
